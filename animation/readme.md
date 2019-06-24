@@ -1,4 +1,6 @@
-I use gif atm but it does not look very good. You can use pdf file in ```/psd/``` to generate mp4 or whatever you want.
+You can use pdf file in ```/psd/``` to generate video files or whatever you want.
+
+gif does not have the best quality
 
 snap.gif has white background because it looks awful without background.
 
