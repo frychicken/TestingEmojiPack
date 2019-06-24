@@ -1,1 +1,37 @@
+I divided this into three groups of emojis
 
+## Normal emoji
+
+_You don't think you need these until you see these_
+
+<img src="Extrase.png" alt="Extrase" width="500"/>
+
+When you type in ":/", it becomes :confused: 
+
+or ":P", it becomes :stuck_out_tongue: 
+
+or ":v", it becomes packman face; you don't like that? then the emojis above fit perfectly with what you type.
+
+## Discord face emoji
+
+_Memers, here you go_
+
+![DiscordEmoji](DiscordEmoji.png)
+
+Some emojis have alternatives 
+
+#### ```FOR MEMERS EXCLUSIVELY```
+
+<img src="Memers.png" alt="memers" width="500"/>
+
+## Letters 
+
+_gg and F is a must-have in gaming!_
+
+<img src="letters.png" alt="letters" width="500"/>
+
+## Pixelated emoji
+
+_It represents gaming!_
+
+<img src="pizelate.png" alt="pizelate" width="200"/>
