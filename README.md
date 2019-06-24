@@ -7,9 +7,9 @@ With **45** different emojis! Full list:
 
 #### ```Table of contents``` 
 
-| Normal emoji     | Discord face emoji   | Letters   | Pixelated emoji | Animated emoji  |
-| :-------------: |:-------------:| :-----:|:------:|:----:|
-| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) |
+| Normal emoji     | Discord face emoji   | Letters   | Pixelated emoji | Animated emoji  | NOTES   |
+| :-------------: |:-------------:| :-----:|:------:|:----:| :-----:|
+| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#NOTES)|
 
 ## Normal emoji
 
@@ -60,6 +60,12 @@ _It can moves??_
 <img src="animation/yep.gif" alt="yep" width="200"/>
 </p>
 
-I use gif atm but it does not look very good. You can use pdf file in ```/psd/``` to generate mp4 or whatever you want.
+Available in ```/animation``` (gif file) and ```/video``` (MOV file -- higher quality)
 
-snap.gif has white background because it looks awful without background.
+## NOTES
+
+```/video/``` contains video files for the animations.
+
+```emojiPackNoBG.png ``` is a transparent file, so do all the videos in ```/video```.
+
+```readme.md``` is available in every folder.
