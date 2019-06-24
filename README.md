@@ -1,0 +1,2 @@
+# EmojiPack
+Discord hackweek emoji
