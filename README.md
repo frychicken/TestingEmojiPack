@@ -1,13 +1,15 @@
 # EmojiPack
 Discord hackweek emoji. I divided this into three groups of emojis
 
-Content:
+Table of contents 
 
-| Table of contents        |            |   |   |  |
-| ------------- |:-------------:| :-----:|:------:|----:|
-| [Normal emoji](#Normal-emoji)    | [Discord face emoji](#Discord-face-emoji) | [Letters](#Letters)| [Pixelated emoji](#Pixelated-emoji) | [Animated emoji](#Animated emoji) |
+| Normal emoji     | Discord face emoji   | Letters   | Pixelated emoji | Animated emoji  |
+| :-------------: |:-------------:| :-----:|:------:|:----:|
+| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) |
 
 ## Normal emoji
+
+A.K.A extended emojis
 
 _You don't think you need these until you see these_
 
