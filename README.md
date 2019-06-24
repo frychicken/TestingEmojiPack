@@ -1,7 +1,11 @@
 # EmojiPack
-Discord hackweek emoji. I divided this into three groups of emojis
+Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into three groups of emojis. 
 
-Table of contents 
+With **45** different emojis! Full list: 
+
+<img src="emojiPack.png" alt="fulllist" width="200"/>
+
+#### ```Table of contents``` 
 
 | Normal emoji     | Discord face emoji   | Letters   | Pixelated emoji | Animated emoji  |
 | :-------------: |:-------------:| :-----:|:------:|:----:|
@@ -9,9 +13,9 @@ Table of contents
 
 ## Normal emoji
 
-A.K.A extended emojis
+A.K.A extended emojis.
 
-_You don't think you need these until you see these_
+_You don't think you need these until you see these:_
 
 <img src="group/Extrase.png" alt="group/Extrase" width="500"/>
 
