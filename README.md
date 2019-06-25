@@ -1,7 +1,7 @@
 # EmojiPack
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into three groups of emojis. 
 
-With **45** different emojis and **4** of them animated! Full list: 
+With **46** different emojis and **4** of them animated! Full list: 
 
 <img src="emojiPack.png" alt="fulllist" width="200"/>
 
@@ -47,7 +47,7 @@ _gg and F is a must-have in gaming!_
 
 _It represents gaming!_
 
-<img src="group/pizelate.png" alt="pizelate" width="200"/>
+<img src="group/pizelate.png" alt="pizelate" width="500"/>
 
 ## Animated emoji
 
