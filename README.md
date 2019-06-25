@@ -1,7 +1,7 @@
 # EmojiPack
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into 6 groups of emojis. 
 
-With **53** different emojis, and **4** of them have animated version!
+With **56** different emojis, and **5** of them have animated version!
 
 Full list: 
 
@@ -25,7 +25,11 @@ When you type in ":/", it becomes :confused:
 
 or ":P", it becomes :stuck_out_tongue: 
 
-or ":v", it becomes packman face; you don't like that? then the emojis above fit perfectly with what you type.
+or ":v", it becomes packman face; 
+
+or they does not have this face:  "--.--" .
+
+you don't like that? then the emojis above fit perfectly with what you type.
 
 ## Discord face emoji
 
@@ -53,7 +57,7 @@ _It represents gaming!_
 
 ## Discord Pig
 
-_Who doesn't love marvel and cute pigs?_
+_I love you 3000!_
 
 <img src="group/discordpig.png" alt="snap" width="500"/>
 
@@ -68,6 +72,8 @@ _It can moves??_
 <img src="animation/dab.gif" alt="dab" width="200"/>
 <img src="animation/sweat.gif" alt="sweat" width="200"/>
 <img src="animation/yep.gif" alt="yep" width="200"/>
+<img src="animation/ironmananimation.gif" alt="yep" width="200"/>
+
 </p>
 
 Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher quality)
