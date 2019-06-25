@@ -1,13 +1,18 @@
 # EmojiPack
-Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into 6 groups of emojis. 
 
-With _**67**_ emojis, and _**5**_ of them have animated version!
+<img src="https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg" alt="memers" align="right" width="500"/>
+
+Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
+
+With _**67**_ emojis, and _**5**_ of them animated!
 
 If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
 
-Full list: 
+```Full list:```
 
 <img src="emojiPack.png" alt="fulllist" width="300"/>
+
+ I divided this into 6 groups of emojis. 
 
 #### ```Table of contents``` 
 
@@ -84,7 +89,7 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 
 ```/video/``` contains video files for the animations.
 
-```emojiPackNoBG.png ``` is a transparent file, so do all the videos in ```/video```.
+```emojiPackNoBG.png``` is a transparent file, so do all the videos in ```/video```.
 
 ```readme.md``` is available in every folder.
 
