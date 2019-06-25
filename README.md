@@ -45,7 +45,7 @@ Some emojis have alternatives
 
 ## Letters 
 
-_gg and F is a must-have in gaming!_
+_F is a must-have in gaming, so is gg!_
 
 <img src="group/letters.png" alt="letters" width="500"/>
 
@@ -85,3 +85,9 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 ```emojiPackNoBG.png ``` is a transparent file, so do all the videos in ```/video```.
 
 ```readme.md``` is available in every folder.
+
+| [/video/readme.md](video/readme.md) |
+[/psd/readme.md](psd/readme.md) |
+[/group/readme.md](group/readme.md) |
+[animation/readme.md](animation/readme.md) |
+[afdesign/readme.md](afdesign/readme.md) |
