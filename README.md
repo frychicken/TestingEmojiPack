@@ -1,15 +1,15 @@
 # EmojiPack
-Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into three groups of emojis. 
+Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into 6 groups of emojis. 
 
-With **46** different emojis and **4** of them animated! Full list: 
+With **53** different emojis and **4** of them animated! Full list: 
 
 <img src="emojiPack.png" alt="fulllist" width="200"/>
 
 #### ```Table of contents``` 
 
-| Normal emoji     | Discord face emoji   | Letters   | Pixelated emoji | Animated emoji  | NOTES   |
-| :-------------: |:-------------:| :-----:|:------:|:----:| :-----:|
-| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#NOTES)|
+| Normal emoji     | Discord face emoji   | Letters emoji  | Pixelated emoji | Animated emoji  | Discord pig emoji |NOTES   |
+| :-------------: |:-------------:| :-----:|:------:|:----:| :-----:| :-----:|
+| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#Discord-Pig)  |[here](#NOTES)|
 
 ## Normal emoji
 
@@ -48,6 +48,14 @@ _gg and F is a must-have in gaming!_
 _It represents gaming!_
 
 <img src="group/pizelate.png" alt="pizelate" width="500"/>
+
+## Discord Pig
+
+_Who doesn't love marvel and cute pigs?_
+
+<img src="group/discordpig.png" alt="snap" width="500"/>
+
+
 
 ## Animated emoji
 
