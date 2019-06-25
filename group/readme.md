@@ -1,4 +1,4 @@
-I divided this into three groups of emojis
+I divided this into 6 groups of emojis
 
 ## Normal emoji
 
@@ -26,7 +26,7 @@ Some emojis have alternatives
 
 ## Letters 
 
-_gg and F is a must-have in gaming!_
+_F is a must-have in gaming, so is gg!_
 
 <img src="letters.png" alt="letters" width="500"/>
 
@@ -35,3 +35,12 @@ _gg and F is a must-have in gaming!_
 _It represents gaming!_
 
 <img src="pizelate.png" alt="pizelate" width="200"/>
+
+## Discord pig emoji
+
+_I love you 3000!_
+
+<img src="discordpig.png" alt="discordpig" width="500"/>
+
+Thor is fat!
+
