@@ -9,9 +9,9 @@ Full list:
 
 #### ```Table of contents``` 
 
-| Normal emoji     | Discord face emoji   | Letters emoji  | Pixelated emoji | Animated emoji  | Discord pig emoji |NOTES   |
+| Normal emoji     | Discord face emoji   | Letters emoji  | Pixelated emoji | Animated emoji  | Wumpus emoji |NOTES   |
 | :-------------: |:-------------:| :-----:|:------:|:----:| :-----:| :-----:|
-| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#Discord-Pig)  |[here](#NOTES)|
+| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#Wumpus-emoji)  |[here](#NOTES)|
 
 ## Normal emoji
 
@@ -55,7 +55,7 @@ _It represents gaming!_
 
 <img src="group/pizelate.png" alt="pizelate" width="500"/>
 
-## Discord Pig
+## Wumpus emoji
 
 _I love you 3000!_
 
