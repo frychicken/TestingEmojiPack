@@ -1,9 +1,11 @@
 # EmojiPack
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into 6 groups of emojis. 
 
-With **53** different emojis and **4** of them animated! Full list: 
+With **53** different emojis, and **4** of them have animated version!
 
-<img src="emojiPack.png" alt="fulllist" width="200"/>
+Full list: 
+
+<img src="emojiPack.png" alt="fulllist" width="300"/>
 
 #### ```Table of contents``` 
 
@@ -55,7 +57,7 @@ _Who doesn't love marvel and cute pigs?_
 
 <img src="group/discordpig.png" alt="snap" width="500"/>
 
-
+Thor is fat!
 
 ## Animated emoji
 
