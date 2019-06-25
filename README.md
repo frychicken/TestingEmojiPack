@@ -1,7 +1,7 @@
 # EmojiPack
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into 6 groups of emojis. 
 
-With **56** different emojis, and **5** of them have animated version!
+With **57** emojis, and **5** of them have animated version!
 
 Full list: 
 
@@ -58,6 +58,8 @@ _It represents gaming!_
 ## Discord Pig
 
 _I love you 3000!_
+
+> No u 
 
 <img src="group/discordpig.png" alt="snap" width="500"/>
 
