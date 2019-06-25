@@ -1,7 +1,9 @@
 # EmojiPack
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji. I divided this into 6 groups of emojis. 
 
-With **67** emojis, and **5** of them have animated version!
+With _**67**_ emojis, and _**5**_ of them have animated version!
+
+If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
 
 Full list: 
 
@@ -9,13 +11,11 @@ Full list:
 
 #### ```Table of contents``` 
 
-| Normal emoji     | Discord face emoji   | Letters emoji  | Pixelated emoji | Animated emoji  | Wumpus emoji |NOTES   |
+| Extended emoji     | Discord face emoji   | Letters emoji  | Pixelated emoji | Animated emoji  | Wumpus emoji |NOTES   |
 | :-------------: |:-------------:| :-----:|:------:|:----:| :-----:| :-----:|
-| [here](#Normal-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#Wumpus-emoji)  |[here](#NOTES)|
+| [here](#Extended-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#Wumpus-emoji)  |[here](#NOTES)|
 
-## Normal emoji
-
-A.K.A extended emojis.
+## Extended emoji
 
 _You don't think you need these until you see these:_
 
