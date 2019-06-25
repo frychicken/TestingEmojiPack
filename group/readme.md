@@ -36,7 +36,7 @@ _It represents gaming!_
 
 <img src="pizelate.png" alt="pizelate" width="200"/>
 
-## Discord pig emoji
+## Wumpus emoji
 
 _I love you 3000!_
 
