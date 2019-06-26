@@ -30,12 +30,6 @@ _F is a must-have in gaming, so is gg!_
 
 <img src="letters.png" alt="letters" width="500"/>
 
-## Pixelated emoji
-
-_It represents gaming!_
-
-<img src="pizelate.png" alt="pizelate" width="200"/>
-
 ## Wumpus emoji
 
 _I love you 3000!_
@@ -51,3 +45,9 @@ Thor is fat!
 _I removed these as they are not really good_
 
 <img src="removed.png" alt="removed" width="500"/>
+
+<img src="pizelate.png" alt="pizelate" width="200"/>
+
+**Pixelated emoji**
+
+_It represents gaming!_
