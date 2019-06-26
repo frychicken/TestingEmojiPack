@@ -1,4 +1,4 @@
-I divided this into 6 groups of emojis
+I divided this into 5 groups of emojis
 
 ## Extended emoji
 
