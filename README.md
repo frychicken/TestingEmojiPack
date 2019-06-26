@@ -7,7 +7,7 @@
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
 
-With _**65**_ emojis, and _**5**_ of them animated!
+With _**63**_ emojis, and _**5**_ of them animated!
 
 If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
 
@@ -84,7 +84,9 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 
 ## Removed emoji
 
-_There used to be 70 emojis until I decided to deleted these (deleted 9 emojis):_
+_There used to be 70 emojis until I decided to deleted these (deleted 11 emojis):_
+
+<img src="group/FrogRemoval.png" alt="frog" width="500"/>
 
 <img src="group/removed.png" alt="removed" width="500"/>
 
