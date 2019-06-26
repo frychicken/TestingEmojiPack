@@ -39,15 +39,3 @@ _I love you 3000!_
 <img src="discordpig.png" alt="discordpig" width="500"/>
 
 Thor is fat!
-
-## Removed emoji 
-
-_I removed these as they are not really good_
-
-<img src="removed.png" alt="removed" width="500"/>
-
-<img src="pizelate.png" alt="pizelate" width="200"/>
-
-**Pixelated emoji**
-
-_It represents gaming!_
