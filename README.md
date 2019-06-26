@@ -1,10 +1,11 @@
 # EmojiPack
 
 <img src="https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg" alt="memers" align="right" width="500"/>
+<img src="coverArt/coverArt.png" alt="memers" align="right" width="500"/>
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
 
-With _**67**_ emojis, and _**5**_ of them animated!
+With _**70**_ emojis, and _**5**_ of them animated!
 
 If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
 
@@ -91,6 +92,8 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 
 ```emojiPackNoBG.png``` is a transparent file, so do all the videos in ```/video```.
 
+```/coverArt/coverArt.png``` is the cover Art of this project; it is _not_ an emoji, but rather, the thing that appears when you send a link.
+
 ```readme.md``` is available in every folder.
 
 | [/video/readme.md](video/readme.md) |
@@ -98,3 +101,4 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 [/group/readme.md](group/readme.md) |
 [animation/readme.md](animation/readme.md) |
 [afdesign/readme.md](afdesign/readme.md) |
+[coverArt/readme.md](coverArt/readme.md) |
