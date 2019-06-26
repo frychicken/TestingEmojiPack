@@ -1,11 +1,13 @@
-# EmojiPack
+# EmojiPack 
+
+### Important: If you're using mobile, click view as Desktop. Otherwise, you will not be able to view this.
 
 <img src="https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg" alt="memers" align="right" width="500"/>
 <img src="coverArt/coverArt.png" alt="memers" align="right" width="500"/>
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
 
-With _**70**_ emojis, and _**5**_ of them animated!
+With _**64**_ emojis, and _**5**_ of them animated!
 
 If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
 
@@ -85,6 +87,13 @@ _It can moves??_
 </p>
 
 Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher quality)
+
+## Removed emoji
+
+_There used to be 70 emojis until I decided to deleted these:_
+
+<img src="group/removed.png" alt="removed" width="500"/>
+
 
 ## NOTES
 
