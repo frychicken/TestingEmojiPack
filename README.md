@@ -7,7 +7,7 @@
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
 
-With _**64**_ emojis, and _**5**_ of them animated!
+With _**65**_ emojis, and _**5**_ of them animated!
 
 If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
 
@@ -19,9 +19,9 @@ If you like this, consider following me on [twitter](https://twitter.com/null0ve
 
 #### ```Table of contents``` 
 
-| Extended emoji     | Discord face emoji   | Letters emoji  | Pixelated emoji | Animated emoji  | Wumpus emoji |NOTES   |
+| Extended emoji     | Discord face emoji   | Letters emoji  | Wumpus emoji | Animated emoji  | Removed emoji |NOTES   |
 | :-------------: |:-------------:| :-----:|:------:|:----:| :-----:| :-----:|
-| [here](#Extended-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Pixelated-emoji) | [here](#Animated-emoji) | [here](#Wumpus-emoji)  |[here](#NOTES)|
+| [here](#Extended-emoji)    | [here](#Discord-face-emoji) | [here](#Letters)| [here](#Wumpus-emoji) | [here](#Animated-emoji) | [here](#Removed-emoji)  |[here](#NOTES)|
 
 ## Extended emoji
 
@@ -57,12 +57,6 @@ _F is a must-have in gaming, so is gg!_
 
 <img src="group/letters.png" alt="letters" width="500"/>
 
-## Pixelated emoji
-
-_It represents gaming!_
-
-<img src="group/pizelate.png" alt="pizelate" width="500"/>
-
 ## Wumpus emoji
 
 _I love you 3000!_
@@ -90,9 +84,15 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 
 ## Removed emoji
 
-_There used to be 70 emojis until I decided to deleted these:_
+_There used to be 70 emojis until I decided to deleted these (deleted 8 emojis):_
 
 <img src="group/removed.png" alt="removed" width="500"/>
+
+**Pixelated emoji**
+
+_It represents gaming!_
+
+<img src="group/pizelate.png" alt="pizelate" width="500"/>
 
 
 ## NOTES
