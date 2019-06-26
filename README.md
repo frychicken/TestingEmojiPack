@@ -84,7 +84,7 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 
 ## Removed emoji
 
-_There used to be 70 emojis until I decided to deleted these (deleted 8 emojis):_
+_There used to be 70 emojis until I decided to deleted these (deleted 9 emojis):_
 
 <img src="group/removed.png" alt="removed" width="500"/>
 
@@ -111,3 +111,6 @@ _It represents gaming!_
 [animation/readme.md](animation/readme.md) |
 [afdesign/readme.md](afdesign/readme.md) |
 [coverArt/readme.md](coverArt/readme.md) |
+
+**Thanks to**
+@frichicken and @frichickens for feedback, emotional support.
