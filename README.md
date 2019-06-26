@@ -1,4 +1,4 @@
-# EmojiPack 
+# EmojiPack hackweek19
 
 ### Important: If you're using mobile, click view as Desktop. Otherwise, you will not be able to view this.
 
@@ -15,7 +15,7 @@ If you like this, consider following me on [twitter](https://twitter.com/null0ve
 
 <img src="emojiPack.png" alt="fulllist" width="300"/>
 
- I divided this into 6 groups of emojis. 
+ I divided this into 5 groups of emojis. 
 
 #### ```Table of contents``` 
 
@@ -96,6 +96,8 @@ _It represents gaming!_
 
 
 ## NOTES
+
+Removed emojis are removed. I put it there just to remember what I removed.
 
 ```/video/``` contains video files for the animations.
 
