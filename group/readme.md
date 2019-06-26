@@ -1,6 +1,6 @@
 I divided this into 6 groups of emojis
 
-## Normal emoji
+## Extended emoji
 
 _You don't think you need these until you see these_
 
@@ -40,9 +40,14 @@ _It represents gaming!_
 
 _I love you 3000!_
 
-> NO u 
+> No u 
 
 <img src="discordpig.png" alt="discordpig" width="500"/>
 
 Thor is fat!
 
+## Removed emoji 
+
+_I removed these as they are not really good_
+
+<img src="removed.png" alt="removed" width="500"/>
