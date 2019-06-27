@@ -114,6 +114,7 @@ Removed emojis are removed. I put it there just to remember what I removed.
 [animation/readme.md](animation/readme.md) |
 [afdesign/readme.md](afdesign/readme.md) |
 [coverArt/readme.md](coverArt/readme.md) |
+[introVideo/readme.md](introVideo/readme.md)|
 
 **Thanks to**
 @frichicken and @frichickens for feedback, emotional support.
