@@ -2,7 +2,7 @@
 
 ### Important: If you're using mobile, click view as Desktop. Otherwise, you will not be able to view this.
 
-<img src="coverArt/coverArt2.png" alt="memers" align="right" width="500"/>
+<img src="coverArt/emojiPackWithCoolStuff.png" alt="memers" align="right" width="300"/>
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
 
