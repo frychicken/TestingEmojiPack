@@ -2,7 +2,6 @@
 
 ### Important: If you're using mobile, click view as Desktop. Otherwise, you will not be able to view this.
 
-<img src="https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg" alt="memers" align="right" width="500"/>
 <img src="coverArt/coverArt2.png" alt="memers" align="right" width="500"/>
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
