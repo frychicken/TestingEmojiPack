@@ -3,11 +3,11 @@
 ### Important: If you're using mobile, click view as Desktop. Otherwise, you will not be able to view this.
 
 <img src="https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg" alt="memers" align="right" width="500"/>
-<img src="coverArt/coverArt.png" alt="memers" align="right" width="500"/>
+<img src="coverArt/coverArt2.png" alt="memers" align="right" width="500"/>
 
 Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33) emoji.
 
-With _**63**_ emojis, and _**5**_ of them animated!
+With _**65**_ emojis, and _**5**_ of them animated!
 
 If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
 
@@ -84,7 +84,7 @@ Available in ```/animation``` (gif file) and ```/video``` (.MOV file -- higher q
 
 ## Removed emoji
 
-_There used to be 70 emojis until I decided to deleted these (deleted 11 emojis):_
+_There used to be 70+ emojis until I decided to deleted these (deleted 11 emojis):_
 
 <img src="group/FrogRemoval.png" alt="frog" width="500"/>
 
