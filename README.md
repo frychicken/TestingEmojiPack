@@ -8,8 +8,6 @@ Discord [#hackweek](https://blog.discordapp.com/discord-community-hack-week-buil
 
 With _**65**_ emojis, and _**5**_ of them animated!
 
-If you like this, consider following me on [twitter](https://twitter.com/null0verflows)!
-
 ```Full list:```
 
 <img src="emojiPack.png" alt="fulllist" width="300"/>
